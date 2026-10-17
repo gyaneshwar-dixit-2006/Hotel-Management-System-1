@@ -1,0 +1,19 @@
+{
+  "authors": [
+    {
+      "name": "raymart",
+      "email": "raymart54@gmail.com"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      "app/"
+    ]
+  },
+  "require": {
+    "fakerphp/faker": "^1.23",
+    "facebook/graph-sdk": "^5.7",
+    "ext-json": "*",
+    "viktorruskai/facebook-graph-sdk": "^7.0"
+  }
+}
